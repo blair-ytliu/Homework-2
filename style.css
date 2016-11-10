@@ -1,0 +1,72 @@
+.inner{
+width:370px;
+height:214px;
+table-layout: fixed;
+background:#ffffcc;}
+
+.topa{
+width:85px;
+height:70px;
+table-layout: fixed;    overflow: hidden;
+text-align:center;}
+
+
+.topb{
+width:285px;
+height:65px;
+table-layout: fixed;
+font-size:15px;
+font-family: Arial;
+font-weight: 400;
+color:#000;
+line-height:50px;
+text-align:center;}
+
+.rectc{
+width:85px;
+height:48px;
+table-layout: fixed;
+font-size:16px;
+font-family: Arial;
+color:#000;
+line-height:50px;
+text-align:center;}
+
+.rectd{width:285px;
+height:48px;
+table-layout: fixed;
+text-align:left;
+background:#ffffff;}
+
+strong{
+font-family:"ircosoft JhengHei";
+
+color: #cc0000;
+}
+.circle{
+width:41px;
+height:41px;
+table-layout: fixed;    border-radius:50%;
+font-size:24px;
+font-family: Arial;
+font-weight: 900;
+color:#000;
+line-height:41px;
+text-align:center;
+background:#ffce00;
+white-space::nowrap;
+}
+
+.circle56{
+width:41px;
+height:41px;
+table-layout: fixed;
+border-radius:50%;
+font-size:24px;
+font-family: Arial;
+font-weight: 900;
+color:white;
+line-height:41px;
+text-align:center;
+background:red;
+}
